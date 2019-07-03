@@ -1,5 +1,5 @@
 steps:
-- name: 'ubuntu'
-  args: ['bash', './myscript.bash']
 - name: gcr.io/cloud-builders/git
   args: ['clone', 'https://source.developers.google.com/p/jalc-rep-project/r/MyFirstRepo']
+- name: 'ubuntu'
+  args: ['bash', './myscript.bash']
