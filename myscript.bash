@@ -1,1 +1,1 @@
-ls repo3 -al
+ls -al
