@@ -1,2 +1,2 @@
 cd ..
-ls -al
+ls workspace -al
